@@ -19,14 +19,22 @@ jobs:
           # Options
           user: marlowl
           template: classic
-          base: activity
-          base_indepth: yes
-          base_skip: yes
+          base: ""
           config_timezone: Europe/Amsterdam
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_repositories: yes
           plugin_repositories_featured: marlowl/vue-voting-dapp, Consensys/quorum-kubernetes, marlowl/postgres-gcs-backup
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_starred: 0
