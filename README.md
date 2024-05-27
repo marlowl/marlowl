@@ -1,5 +1,3 @@
 ## Hi there 👋
 
 [![marlowl's GitHub stats](https://github-readme-stats-theta-dun.vercel.app/api?username=marlowl&show=reviews,prs_merged_percentage&theme=transparent&hide=contribs,prs,issues)](https://github.com/marlowl/github-readme-stats)
-
-![Metrics](https://metrics.lecoq.io/marlowl?template=classic&base.indepth=true&base.skip=true&base.header=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=true&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories=false&repositories.featured=marlowl%2Fvue-voting-dapp%2C%20Consensys%2Fquorum-kubernetes%2C%20marlowl%2Fpostgres-gcs-backup&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Europe%2FAmsterdam)
